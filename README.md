@@ -1,16 +1,5 @@
 # login_page
+![studio64_wdN8tInhWh](https://github.com/JulieSmolikova/Login_page/assets/94138023/56650ad2-111b-457a-ba8e-60f263d17d17)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![studio64_O2WQ519JxG](https://github.com/JulieSmolikova/Login_page/assets/94138023/4d8be7ef-d438-44d0-ae14-9c44840d00c8)
